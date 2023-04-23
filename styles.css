@@ -1,0 +1,60 @@
+   <title>Resume - Saiyam Arora</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap">
+    <style>
+      body {
+        background-color: #f2f2f4;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        color: #3d3d48;
+        margin: 0;
+        padding: 0;
+      }
+header {
+    background-color: #3d3d48;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 48px;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  main {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+  }
+</style>
